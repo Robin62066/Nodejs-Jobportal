@@ -37,7 +37,8 @@ const options = {
     },
     servers: [
       {
-        url: "http:/localhost:8080",
+        //here pass url if local and node
+        url: "https://nodejs-jobportal-5v83.onrender.com/",
       },
     ],
   },
